@@ -1,0 +1,5615 @@
+fileFormatVersion: 2
+guid: 33b506cf087b3c74584d07f400c23f27
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Monochrome_tilemap_packed_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 304
+      width: 16
+      height: 16
+    spriteID: bf42ce1687572424994221189b9bed35
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 304
+      width: 16
+      height: 16
+    spriteID: efdab60c489917c42be3906db98b6488
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 5ded317c760c67f4f9f63d195e744118
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 6cf802a824d4cc14daa1d9889399ba09
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 4056d9a6797a6144aaeb683166b78fd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 304
+      width: 16
+      height: 16
+    spriteID: b4c04fb135b630d4c8c4e6efc84ab9e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 304
+      width: 16
+      height: 16
+    spriteID: a3db4a70a60e8754f8aa77bc7e8f749a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 2126db7677fb8644a85cb0dc963eeb9b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 304
+      width: 16
+      height: 16
+    spriteID: b74dd0be2cdbacb4d9545d161da992dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 7d2edc5dd543cfc43a3bb92168fced80
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 91a51676b20d4f34aaf09ea431779236
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 304
+      width: 16
+      height: 16
+    spriteID: d2a3858f5436dad48a581077ae4dcae2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 304
+      width: 16
+      height: 16
+    spriteID: adb9766551f21d3408caee2e433a18d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 027667cdfd5f38f409eccf4c6283ffdb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 950cf52149cf24840ade3f04d1b7ceab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 7105b440d636d7045afbdc35371cb285
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 5742ce9d6a6e9994c8398148c4de7647
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 304
+      width: 16
+      height: 16
+    spriteID: a319887fc85325f438f48ced04524b00
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 304
+      width: 16
+      height: 16
+    spriteID: da2cf085217165f4f8797fd8d3d44a48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 304
+      width: 16
+      height: 16
+    spriteID: fad09888530eb2042b767d596b9abdce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 70078d18cb86d7c43ba5defd7db50461
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 7a642edd6f74c3e4f8138adfec5ea57c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 288
+      width: 16
+      height: 16
+    spriteID: c167e52d77c227c4d817cdfa012695c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 288
+      width: 16
+      height: 16
+    spriteID: efd0b108461ee6d488ab66701e477505
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 288
+      width: 16
+      height: 16
+    spriteID: c6fff89bd3745a64d80ce21ebfca7664
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 93dfb8fc51df07048b72eb16a989d48e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 288
+      width: 16
+      height: 16
+    spriteID: b411a0acc88f1e340be1191dbb500266
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 288
+      width: 16
+      height: 16
+    spriteID: fe3caf3fe4f74044a9185bc102d61f45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 288
+      width: 16
+      height: 16
+    spriteID: edca4a3a460125645ad03dfd876d8216
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 9bf65af4116b54541b57d9aea077d606
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 288
+      width: 16
+      height: 16
+    spriteID: d4e3ad687bb366d4d87008a99009b8b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 288
+      width: 16
+      height: 16
+    spriteID: c328341e2f8ad47428121e6679cc07fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 288
+      width: 16
+      height: 16
+    spriteID: a176a55c48899ca469b5534c64860b83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 248a29c2f517c2c4690d885ed214d70a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 7d255147fde3d9441b6a59080851bacf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 8386dd6579c2a2f4cb813a83da573b4f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 288
+      width: 16
+      height: 16
+    spriteID: b0c77270da554214b91bbe89cbe8d750
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 288
+      width: 16
+      height: 16
+    spriteID: ed5e0ff6fef8c544babace3988317c57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 25edffc2e4cc3d6428948de2e2e5f433
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 0cc832dac36e61b41b8e5f0783f427ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 27c26957ea686f84094c96997e3b44c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 199c1329999dce0429a754e49f3d5ef5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 06c5169f2aebc0341b6ee28ace6f85b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 7c54d9a80b1ba6641aa9a3a0e0c77a5f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 75710a4171f26414780e5d2cff379d2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 272
+      width: 16
+      height: 16
+    spriteID: ed17c8b5fbb6af448b666860e515fb90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 425a5a54fa36dd9449dbc2c823a7a285
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 272
+      width: 16
+      height: 16
+    spriteID: aa92ae2122dee064e9677d971648882d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 272
+      width: 16
+      height: 16
+    spriteID: af7ce3f77897a014fb53601ec2b055c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 272
+      width: 16
+      height: 16
+    spriteID: fd19bbccc145657419126a6c1ea60a69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 2bfe10a46e798a2468ae4fbd4fd0b17b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 60b7161ca6169f04fabf8c3c2f954ba5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 989eed9ca801ad446b1b7bbfedb9e77b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 572d5416e51814845b23ef4587f4283f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 6a2276b451c12aa4ea027d3e86996b53
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 8b0ce98dedd9abd4dab37bcc05b01ee3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 75f2175d8e9ad9c42bceec8b5563ebca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 272
+      width: 16
+      height: 16
+    spriteID: d02de63702fe66140a375439892a520a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 44ceefac0adbe4143a4d6e21b455a33d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 272
+      width: 16
+      height: 16
+    spriteID: bf90bc34b5964ca4e971ad9998823e21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 256
+      width: 16
+      height: 16
+    spriteID: aaf4aafc53e47e849a5c4c2df48bd7ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 256
+      width: 16
+      height: 16
+    spriteID: ba9caf2216bc7a24d971541d8acf5e79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 7b5f32221a1f6ce49a8b0738aaf2a521
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 1b88ed610dce39d4d8899bbb463fbfd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 0bc7510db94aa314cad491fe6ebe5251
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 8420956d9effa6b44a778b50d98f23ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 8b7acbcda1c643d45b2cc9ae73eb6f2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 22081fc1822e5844e8466633ffd54a1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 327e7c725c8d4434caccbe650b0d02b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 78219d6c4da567c4da12922e1cac58bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 5d30bbd24014f4f4789a5d72fb392588
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 63825e33dc52f6549b3ff6c1a382e0ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 4acb57431ca65174ab031d4ba710af54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 256
+      width: 16
+      height: 16
+    spriteID: f08a35ebc1146464b8d20e5e96ebf329
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 0e1714c40f120bc4c9d257e702e9d261
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 256
+      width: 16
+      height: 16
+    spriteID: a99b1d3ccbbaa7c4c9e72c0665d4cbe7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 5e72b8dd5dd01f049be25437bb5217bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 9518ff2db54eeed46905139a15acb849
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 256
+      width: 16
+      height: 16
+    spriteID: c77ad81eb52ead9459d4357bc25df150
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 256
+      width: 16
+      height: 16
+    spriteID: d230b7ed2e532274bb03906a341ed081
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 240
+      width: 16
+      height: 16
+    spriteID: d51483c73bc22c948898176b1f6e51d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 240
+      width: 16
+      height: 16
+    spriteID: f39263a98dac7bb4ebd4815daac94dfb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 240
+      width: 16
+      height: 16
+    spriteID: d4d0cdf52ba4e1642b13365c2269bd73
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 0a86ffc08a470cf4e99e4ced0732e6ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 240
+      width: 16
+      height: 16
+    spriteID: cd3385c394db74c4ebd209823102e141
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 585b1bf29c964f24d987d07b1ab7e8f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 73b1e71d32d5442438e57c013c8fb82b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 7f3257de46bd82341aeec5dd7ea63e9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 5c124fd1d91eb2a46a85e1864b1fe4ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 240
+      width: 16
+      height: 16
+    spriteID: a0909bef03b4415419519887bc155c96
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 559656eb97fbe8945b3c4a1e411e63dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 955febc0444d69d4282b24d212087ee8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 1ae6043148c4c424695be3a940c2b8a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 8fdb9830859bd05468bdf677d82247ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 7b0448f2deabdd649a4b7ce9b3775080
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 240
+      width: 16
+      height: 16
+    spriteID: faac46b90a9531a468602f6a11c65859
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 7c34e026da8522c41af28556c7075afb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 846adc8d83a25734cad3416f66389c63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 240
+      width: 16
+      height: 16
+    spriteID: c6ceba6a11351ac41a10f5a6c156a478
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 240
+      width: 16
+      height: 16
+    spriteID: f33bbfc17cfbfe44ba7ebf01016ef570
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 48d0ee7c6e8faa34abe6e7e9d4daa968
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 238b243ced7b90240bec215eb82a1227
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 24f7fb9c26ae18043babd368f455ea4a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 224
+      width: 16
+      height: 16
+    spriteID: be9e95b46ab1d7f43abcb7d0e6e372a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 825551e5f87b50c4b8c25eb6ee39aede
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 6e71da6129e7f3f469cca5e091f28d2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 4b18de1165ca4614993d2dc54bb2d37c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 30ba61d1af9761b4093c5235cb3ca214
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 38802236226eb8b4ca9db3dab8fd2a47
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 224
+      width: 16
+      height: 16
+    spriteID: c24de02ef037b2947ab2128d19467ee8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 9892d78ac1e0f444c9845d6b889ad84d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 224
+      width: 16
+      height: 16
+    spriteID: f930b0b391f436a458e9f03d1703c75e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 01e5d185f9c9a384098e37cd59a925c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 8912482693e60834ba0ad61cb2942f34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 224
+      width: 16
+      height: 16
+    spriteID: cacea6e2d0d634740bbd259a629dd90d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 224
+      width: 16
+      height: 16
+    spriteID: f5a4a3039f03b1949bfcb7fe13daecb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 2a405be31dfc06442a6d7c8adbb4b2df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 9c593cab4ca5338408780cc49d7ad242
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 224
+      width: 16
+      height: 16
+    spriteID: a452ce6a097db434f9642970433513b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 224
+      width: 16
+      height: 16
+    spriteID: e26f982b4b539d94eb4fdd7b5d6baa3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 3a6bc5bf9d6583a4ab0df28faa0624c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 0344bdd825df51d44b1b33abdc43c232
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: d7a0c01a5b3bdc04f9e843919bb0534f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: affde3278ba6665408c5e16ad3483cc9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ba2968c74e630c54e8a62206b083339f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 17449e4c021b8d6479608e460e240632
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ca7e31ef44a28464ea5b428df4f6bd41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 6b7a0b1a75f46b54bb245381d612fb87
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 9e2a0f743b4ff384594b9b84862837a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a2365fcc951372d44bde13abeaae3c1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 7fc3f3f9fc143024b8225d788c0c162f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 10420e6075a88c940b7b69ba558c0d75
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 5bec6218b4a6c2f4eb532ead7fb560af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 9340d18609ba2e247a0ffc7ac9702112
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 7167b30a46f59f0498ec3b51551e1418
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 24c134eb8b64fb943a4f0a2a1e606fd1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 29097e630b6fe4a4a99dd291cfee533e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2486e5330cdfdd2409a6c4f9066a7745
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c660302fa818cc642a7f1b2ccabcdb29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 208
+      width: 16
+      height: 16
+    spriteID: bf644991c92fe6a488b2ae204c7e9736
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: d6df39b19820f264ea973b9c923947cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: ab4b930053b18c647b9d90b8b0ef66c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 5a3bc14e656a02440913bdfd7fbe5e58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 5d1ce7cbb701dca4facdd0beedaea998
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 588b994e2e34aab41ba5e5217686e5a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 91b1dbcc640b1004c8142c8be312ac67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 854ed95658f2b1740a517de3c80b44d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 50fb1b5377f37734fb4577cfd223cb5a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: eaaed5bb58701e84dbcb65928443acbd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 2321d9918927093419462db9db41a69d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 161cc1a6bb1ddb144b1a4ba9652da818
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 690e476a2d9a46340984e2e0374bae28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e48fc2a763b1c624f81ca8aac5797be0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 5204b0c593ad97f4eb1d88aa3d02f22d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 1cf895511e61065429e70ad1ec7293a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 4084290fd8dd4134bb498eb6a2e19df4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 229681e685f89f44592e08be0fc4f090
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 48aa3ec0ef8a8ba4aafc72b7d1565419
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b891fd89b410f0b41b07d29e88759524
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 30c99aba41f179a48ac5ee932326d05a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f9efbc90e92bacc46bbeb7e4e568b149
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f5e1700011a433d4f99cc5a64e6125b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 7453614f6b6bcd942bb024b8260765b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e15d6bd215046f44aad46eb5c5a6a3e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a354af3b60143c442bd98926635e235e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 18f07bb9f3124d348b1f95438eb51b03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 14f2e52b2eea4d841b1b29ba5de3a075
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 70ef731d217589e4abc92d9beb2bbecb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 1d3e0a969d09c274695798fa75f61fb9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 0638fc08a319c8f46a4fd8e519ed38ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 7f80b44d38b0f794b8ac633231fc79d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 9467ba67398c08745a8c4f37f9af6f82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f29edb54c749df047b8aca332558aeb1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 176
+      width: 16
+      height: 16
+    spriteID: b626ae6d901e2c249b1fe745b8feabbe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 176
+      width: 16
+      height: 16
+    spriteID: bd4c0a4eef9b1b24d96bf5274704c4b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 1f50a6093c3918448a81394bd22c7e58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a4cd2eb2b5e002041884c170530e403e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e7fa3934169b7bd41bdb7003d6341e86
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 176
+      width: 16
+      height: 16
+    spriteID: bb94efab538e7704b90ff1e7093b0576
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 95048da2384a7c84c8969ef048f76f07
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 7895501f4993fa044840b13dfdcbd9b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 446668dc47eefb54c913c8e445124f15
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 49977fc994289a64993a4895b6a5aab2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c6de1854d69966145a1204eb2175cbe6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 1fa7fec029cd3a44e81bda65627f9e4e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e0a5d6e4d7370e247ba70a888adf3e10
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5cb9aeb70169fe44dab928bbed6bccaa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d1a78489f7a228b408497f22ef21c25b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: ec6e927c14b4f954786940dcaa005998
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 4cf69c69072dbe141915a24dfd69670f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 50ef3a01ba69ecc45b0f577d23d16899
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 24a22e7c8509267429f786b82b64fa0b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c00ae05ad3746234a8a86446eb45820a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b7b7e8577127ecd4d9a99940f2cdcdd1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 16
+      height: 16
+    spriteID: aa47c9378a75f4e43b1fbc4195af4a69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 8b74e5f7bdb831a4182a59d65e558070
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c9c8fd22db15ec34598f9f0a0dc0d73a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2a21606e6cb870b41b27af1b44c04922
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5ba0e4357975370438beacbb2f503f55
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5c7ecf66ac20e174a9ff0a1a4d3c3cba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: cf701308d9ba8f64980675ba90c67edb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f81e7c9c8efd7cf4d865752f18959874
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 06f1e541fb938b6408cbb4403c9bfc56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: cc14790247ed93b4e95fdfd20d6d5aa3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 79a0b338d851d7c499d0ce863b3ef10e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e426098377619d2469c49642f447ab08
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: d612e4e360e396041b847cd8eecae7f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 692d1226054b04043b2d5536472db4bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f7d672444306cb94abeb83d36c359346
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 2af154fd626425c45b72b15ce77d7f90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 819b0e0974dcdfc48bc52e6ed9306fe6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 8549cbd4a856eb24ebed4722b97b20a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 38e33e03ff4ad534695665a83d3061d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 0f095c4a842e0ce41b4892dea1fd188f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 144
+      width: 16
+      height: 16
+    spriteID: a5108deb3750df344bb3762d17a70781
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 12250d9b96d03d541bc8949bdd2203db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 08cb5d77e1191fd4087b7acfb4a8cda4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 10b2613177f46c443ac15252420974bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e4b014bb2919f70439c0a27edd98e917
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 613020ccc53676c429123c2f4d4c26a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 916d2793192e6224487e6c21a10e5e6a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 72c0dabb20953ea42ba3c82704d0287a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 90ad7d97eb427e3488ff156990e83307
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 9c018bd2489a6db42b6126f9c9616a33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 5533715bead2bf147be6706d7f04ab6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f131757ea38d71b4387acf935d257163
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: eb4959ed2ef5a8c4f9cda1a3f13042dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 991091b8228d9f948a32d40e866a63be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f577fac1db8397040b1eb6fcb4fb366c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 2cb0be19cb7037b43a6aecde430b141d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: c87bdc257587f124ab4dfd327019fbf8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e6b33f1bb2bf14a4a93ccfdeec65cbea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e50271ea24ae82141a8c753c7aa8a45c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 128
+      width: 16
+      height: 16
+    spriteID: be57cfd1678c9c540befa2d29c9a5dd8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 16
+      height: 16
+    spriteID: d0bc3ff9641f3534bae9fb3dde6c41fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 128
+      width: 16
+      height: 16
+    spriteID: fc26ad40ed8ed2c4a92f60600bfabe85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 0949c570590212145bef08d1d80c472d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 39c3f99ceed636846afef487daa07dc1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 128
+      width: 16
+      height: 16
+    spriteID: b85a6adae0c396c42812c37b52f54c04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 128
+      width: 16
+      height: 16
+    spriteID: b10f108ea19e4ca4881fbe5954de99d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f6301e772fbb348429c16a5a12872a3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e6d4022a43e020349a1a27c26d795bf1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 33a7a691468f51b4d82282e236b0f44d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b7dae1ba6bfedf44f9bc95847940ad26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: fd0fc40f02da3854eb0771246de0767c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 1d1049fb8a067eb47aaebc76cb62bbc7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e65191f958d07b34fbda0fc4d05bc7da
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 0f14f010273168948a9dbfba64be1536
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 399a0b7c4b124154387f31eaf4ddf381
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e334c842d70bd134ca91ec74bce91122
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: a0d72b444b902534792db16035b58fe0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 759f8e0b84f35c0428c6c812ebe2b155
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b5f59312f8cf2ad44a60b5cf3e1d46a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 112
+      width: 16
+      height: 16
+    spriteID: bc1c60483c581194b93376e446e11314
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 18a8393ff0e5cbd49b37ddef5a636216
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 112
+      width: 16
+      height: 16
+    spriteID: a341f9a1be2bc2e4bace0bae15e34b49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e57a43043f06bfc44878aa8f66b836ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 0d8282fa46f990142802ea5b2d821334
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 4ba2d73dd69295a4395dc96b9b927f4b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 0b35634cea7a2c840b84bcad74fb7a3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 243030a7831c0d44aaacd669c1c1bf98
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 8c460ae9c4abf2f4f900570dd48a483a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: da6235a970222894d852e35a68f18315
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4c0b057160c55aa4299ad3d5faa33ea1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4293bfb1502ad364da16554dd962b7be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 1c5bae2f880f3f746941d24313e29898
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c2ab00355792822429af538bf3a78fd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 30059bbef7859fd4b8aa74e7a3488db8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3a0b34ca9b64cdd4e9e262308a09eb1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0dec40827c8518146b2e9e9ab02bf653
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 9035daadf80d56d4c81a452e1f0820b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 591b002578289c448bcc11c78773b5e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7f6fbcb5ee2c6e746a187ce53617a9e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 96
+      width: 16
+      height: 16
+    spriteID: a249105fe49fbce478c61e07bb78e165
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 16
+      height: 16
+    spriteID: f70cf197e7e1e5945b9c510144034680
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e7a77c31cf10b1c43bcb204aafc92f79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 577893fce4830294f8cc8c6cadd6b65d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4c12168e06df1b24888fcbeb210a305a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7f94913abaee1904caa2f6c20cd68be9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 96
+      width: 16
+      height: 16
+    spriteID: a1295c28ef86a3f4ab904f53bed7a93f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c9fdf1e56c805dc45b5b60b1de6adbc6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 70808d5c7243d91498defc2f063ebbb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 9b6b824bd72d1a742805361f68cf2605
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 85048453e1f736e4fa34312bd60fea33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 39f3e05ab80579d47b8670879e4a8fe5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 25a8164c758fce3459bf92ca6d06b6fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: ce2bcc813bcc9b541846677349d0fc79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: cdc826dfe62b9cd4a882301b5eecb672
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 50848d508ac2c7240adb57244f420ebe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 871a400d49317f841adf09d4c243409e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e865b3fc5b36fb040b45dfbc4400e911
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: bbb0999fbdb630f41980edd01f6f00cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: f57b10e3687b83648b23897f398be053
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b952fe5b6a67b7f4c8a849aaed081028
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 80
+      width: 16
+      height: 16
+    spriteID: be1a5b25e4c36b345ad641f0c9d0d05f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 80
+      width: 16
+      height: 16
+    spriteID: dfc0eead1d01f9544b52e0072ecee33e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 391f56dd63f615b45a9b179fe08b631d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6423c4a2359972148b51f5bb4320ad7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 46e45f85dbf1acd448255e5e76bea62c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1a46fb6ee00a354408588c353a577400
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_300
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 0164ef8ee79b42a438c60c5b3c6025d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_301
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ff214bdf8f1c5244596c2ac909cac7c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_302
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 7e3cc8264d12ac9488750a58ccee86f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_303
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 2129a45ef2180974f94a16e4c5f13c49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_304
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ca9beed50dfdd364da7cbf1147a1674d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_305
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1c0ca05f66c782d44b7ca45fc421ca30
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_306
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f314af4e6fb0b8743942eceac11b3ed2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_307
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9947f2e58abb6bc4bba558d908341cfb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_308
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f9d8caebcace23b44badf7da58268700
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_309
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: e21a36143b434ab4a8418264dc0c28ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_310
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 841e37faa268c7b45b62e004116ebc6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_311
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 80de6743adafe5141a719e53c8437097
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_312
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 2c5acef874732134f86d6733101fe525
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_313
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 64
+      width: 16
+      height: 16
+    spriteID: aa0faf698054ef24c83c4f311b1fdac9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_314
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ec912f347d676c34aa9a644060a2e780
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_315
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 64
+      width: 16
+      height: 16
+    spriteID: c3378d3b051c4e644a8c19a2dbb5bd51
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_316
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 193df0656e870bd4f81e367f0e2c7c58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_317
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4b803576d09cb8f48a7a7cca05733506
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_318
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4d346223e04df5b4aa953cd991b8edff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_319
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4c2733a163ef4564fb3aa291f5e1adce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_320
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ae155213242cd5e47bc80826ccab1ac9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_321
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 5169576ceb9a6f142bc49b5052dbd8b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_322
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 6957b5ea3ad3fc24ca24e12d6f2ea256
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_323
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c06d8775a8e71fe4cac9b93ea9150a64
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_324
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ba9e3f02874ab294a95351035c3a5c28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_325
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 2ee2b99db4498934c9fd96cfd6b8baae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_326
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c1b76fef1aa90d44890eaf9a5f24af58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_327
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 8d734ba315d53ac4e92a1c44b67fb7ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_328
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ab11833fb3ac22244a4f5a96826a141a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_329
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f9493d6eb7ee96240bf006d35acf5e88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_330
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 63a1d9dba1c2d164d813083c7772d1ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_331
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7150eb4ecac266c40a67b11e6c3c4061
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_332
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3d8dc064ef0233049b2ff8ea2fb06f5c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_333
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c438f692d9894464b8f1daf3eb6af456
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_334
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c0ace3914503fad43bf426e293b86b11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_335
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 71fa54e7b3487ef41923b0b8c1f29be6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_336
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 9660a62b11fd01f43aaaef198aae1b9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_337
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e5067d92b90ef814dbb7aecfc29c6533
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_338
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 57343ecdd7664dc4d8227d9fa044299d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_339
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b56d78b0d33b71d4a8087a822d78ca24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_340
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a4705d9f977cff94786b2088f1491724
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_341
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 03b436aa8ca765045a45e0832c7984bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_342
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e26c76381f10c1046a42d49c8dd59e27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_343
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e1701ed1b1b9a7d4ea41deb19e9ef707
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_344
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 1272e046f3572d645bb6950c25f18e26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_345
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: c241bf91bea917c4f82cd68f97afefae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_346
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 323c5cd581fedf54084ca13d2a93ede6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_347
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: fdf1275fe70dcc64dab866c27a386dca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_348
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 989252fe2ae06f84fb891125bafdce74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_349
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: d97f233e30a35bd4d85c303d21cd70c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_350
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 55d9101bde0a4dc4aaafde89a0e75592
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_351
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 16fb9d33339b27148801994e502cd86e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_352
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9db8034952c622d48911671fbd9683a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_353
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 0ab0e891c0a62504dae60631d444dcb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_354
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 3ca482782582a8842b9857253d3920e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_355
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 0c26d6b423bb6f043960dea90a89ebee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_356
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 2866bec535504fa49a06b2982c068ac7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_357
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 59927214e9ed16c42b5a27171f173105
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_358
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 90bcb09ec4bbfdf4bb411b26458efcd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_359
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 32
+      width: 16
+      height: 16
+    spriteID: f38ed66eaee3c7b43a79e800e7df5b31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_360
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0be4269dc8aa4ec4584f018d040d26f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_361
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 70207fdf880a39946b4c409e8375d182
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_362
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 90c832c606438a747b38b902041bbdf8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_363
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 78ef1c77614191142a05c8aefa0abf62
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_364
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 2ce9f3773a785ca4c8fb9d4bae2f6b20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_365
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ba7dd3437904a2347b01130d47dcdd34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_366
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 492acb58383d9c84ab24fbf9b6c9d267
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_367
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d439bd8990386f64094b9c71c2ff45c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_368
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3b8cccaa01fa88943bb19a750d31842b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_369
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9bd6be91975929d4db9bd2d3dcd6a95e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_370
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ecab079eed58d834eb20d6deab2e08ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_371
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3b8ecf2874917be47a455a7a32dc79a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_372
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b3ce2aa5b9723dd41b8537c568a4b85c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_373
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 2b48ac7dc2b408444a472d40df12a600
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_374
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a946cd935b193664eb180130aed9c91c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_375
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d2c515fd0ca7bc74bbb29099cd9ea088
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_376
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 23b33462b34bb7d45835ded06413b10a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_377
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 16
+      width: 16
+      height: 16
+    spriteID: dc231f7f763de9143a62bf512e5189e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_378
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1edf7fd1328b4c944b4cb933fd6e7d8c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_379
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a50b39f99b9dddc48ae952728b9a8082
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_380
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2993c4dab55c3d14eb2e60e6e356b5a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_381
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 586f0a01db03e154b94978c74f819a9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_382
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 88cbe06de2605da4eaa94ef0d4318b8b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_383
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2df97244d7a5c944aa2c224d2a96cd03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_384
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 354fa2f101e10d44ca5f7bb320a07499
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_385
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 387b84f3241704b4697a5785d6f0735a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_386
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f7292ee508701a6468306f2277b1ec75
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_387
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 4f5cd1c62382174419507bdd7188430d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_388
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 356753bb54b04fa40ba99ae4caa448d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_389
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cb772b5dde8343f40a200293f6ca90dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_390
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7f1a885ba0c95614882d1861cf4ac572
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_391
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ed6307a1e24b92a4c93be5dd9328e0af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_392
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7654d083f8a50264ab9cae6b047300c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_393
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e314ed66fd24b3e40a5bde3c7d1e630d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_394
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 4e893bba4f720c84e9cb61adad073d24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_395
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 16
+    spriteID: c0be1c56a7340134da5aaf2f6bf9aa64
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_396
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 4517ccbc24ab8dd4daa6c5179274fc6d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_397
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b8637a480b9bb664590e0c0607fb302c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_398
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a84a8bc47a4215c4aa8de53ccd3e0364
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Monochrome_tilemap_packed_399
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 74b018a03953d374dabe2bc9ede815f5
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}
